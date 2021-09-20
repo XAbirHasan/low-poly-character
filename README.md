@@ -12,11 +12,11 @@
 
 
 ### Hero
-<img src="demo/5.png" alt="hero" width="250"/>  <img src="demo/6.png" alt="hero" width="250"/> 
+<img src="demo/5.png" alt="hero" width="250"/>  <img src="demo/6.png" alt="hero" width="250"/> <br>
 <img src="demo/7.png" alt="hero" width="250"/>  <img src="demo/8.png" alt="hero" width="250"/>  <img src="demo/9.png" alt="hero" width="250"/>  
 
 ### Beard-Man
-<img src="demo/10.png" alt="hero" width="250"/>  <img src="demo/11.png" alt="hero" width="250"/> 
+<img src="demo/10.png" alt="hero" width="250"/>  <img src="demo/11.png" alt="hero" width="250"/> <br>
 <img src="demo/12.png" alt="hero" width="250"/>  <img src="demo/13.png" alt="hero" width="250"/>  <img src="demo/14.png" alt="hero" width="250"/>  
 
 
