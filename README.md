@@ -24,20 +24,20 @@
 
 ### warrior
 
-* **[Warrior](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/sunglass.fbx)**
-* **[axe](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/headphone.fbx)**
-* **[crusher](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/egg.fbx)**
-* **[shield](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/pigibank.fbx)**
-* **[sord](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/hat.fbx)**
-* **[spear](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/dumbel.fbx)**
+* **[Warrior](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/Warrior.fbx)**
+* **[Axe](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/axe.fbx)**
+* **[Crusher](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/crusher.fbx)**
+* **[Shield](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/shield.fbx)**
+* **[Sord](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/sord.fbx)**
+* **[Spear](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/spear.fbx)**
 
 ### Brox
-* **[Hero](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/pencil.fbx)**
-* **[Hat](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/shoes.fbx)**
-* **[bagpack](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/apples.fbx)**
+* **[Hero](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/brox/hero.fbx)**
+* **[Hat](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/brox/hat.fbx)**
+* **[Bagpack](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/brox/bagpack.fbx)**
 
-### 
-* **[Beard-Man](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/apples.fbx)**
+### Beard-Man
+* **[Beard-Man](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/beard%20boy.fbx)**
 
 
 ## Authors
