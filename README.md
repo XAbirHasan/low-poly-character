@@ -7,17 +7,17 @@
 ## Screen shot
 
 ### Warrior
-<img src="demo/1.png" alt="warrior" width="250"/>  <img src="demo/2.png" alt="warrior" width="250"/>  
-<img src="demo/3.png" alt="warrior" width="250"/>  <img src="demo/4.png" alt="warrior" width="250"/> 
+<img src="demo/1.png" alt="warrior" width="270"/>  <img src="demo/2.png" alt="warrior" width="270"/>  
+<img src="demo/3.png" alt="warrior" width="270"/>  <img src="demo/4.png" alt="warrior" width="270"/> 
 
 
 ### Hero
-<img src="demo/5.png" alt="hero" width="250"/>  <img src="demo/6.png" alt="hero" width="250"/> <br>
-<img src="demo/7.png" alt="hero" width="250"/>  <img src="demo/8.png" alt="hero" width="250"/>  <img src="demo/9.png" alt="hero" width="250"/>  
+<img src="demo/5.png" alt="hero" width="270"/>  <img src="demo/6.png" alt="hero" width="270"/> <br>
+<img src="demo/7.png" alt="hero" width="270"/>  <img src="demo/8.png" alt="hero" width="270"/>  <img src="demo/9.png" alt="hero" width="270"/>  
 
 ### Beard-Man
-<img src="demo/10.png" alt="hero" width="250"/>  <img src="demo/11.png" alt="hero" width="250"/> <br>
-<img src="demo/12.png" alt="hero" width="250"/>  <img src="demo/13.png" alt="hero" width="250"/>  <img src="demo/14.png" alt="hero" width="250"/>  
+<img src="demo/10.png" alt="hero" width="270"/>  <img src="demo/11.png" alt="hero" width="270"/> <br>
+<img src="demo/12.png" alt="hero" width="270"/>  <img src="demo/13.png" alt="hero" width="270"/>  <img src="demo/14.png" alt="hero" width="270"/>  
 
 
 ## 3D file
