@@ -3,6 +3,8 @@
 
  Some low poly game character I made for my game in 2020. It inclueds Warrior and his weapon, Hero and a Beard-Man.
  
+## Project description
+ 
 Name: low-poly-character <br>
 Software: Blender<br>
 platform: 3D <br>
